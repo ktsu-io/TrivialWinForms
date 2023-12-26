@@ -55,6 +55,7 @@ namespace ktsu.io.TrivialWinForms
 		public static string Show(string caption)
 		{
 			Form.Text = caption;
+			TextBox.Text = string.Empty;
 			return Form.ShowDialog() == DialogResult.OK ? TextBox.Text : string.Empty;
 		}
 	}

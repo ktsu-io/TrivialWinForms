@@ -5,9 +5,8 @@
     <UseWindowsForms>true</UseWindowsForms>
     <EnableWindowsTargeting>true</EnableWindowsTargeting>
     <VersionPrefix>1.0.0</VersionPrefix>
-    <VersionSuffix>alpha.1</VersionSuffix>
-    <RepositoryUrl></RepositoryUrl>
-    <PackageProjectUrl></PackageProjectUrl>
+    <VersionSuffix>alpha.2</VersionSuffix>
+    <PackageDescription>A library of simple windows forms.</PackageDescription>
   </PropertyGroup>
 
 </Project>
