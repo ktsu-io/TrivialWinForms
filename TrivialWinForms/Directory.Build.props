@@ -4,9 +4,6 @@
     <TargetFramework>net7.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <EnableWindowsTargeting>true</EnableWindowsTargeting>
-    <VersionPrefix>1.0.0</VersionPrefix>
-    <VersionSuffix>alpha.2</VersionSuffix>
-    <PackageDescription>A library of simple windows forms.</PackageDescription>
   </PropertyGroup>
 
 </Project>
